@@ -1,0 +1,15 @@
+# ignore everything
+*
+
+# except these files and folder
+!app4.py
+!FINAL_SKINCARE_DATASET_MAY_2026.xlsx
+!allergen_groups.pkl
+!skincare_df.pkl
+!tfidf.pkl
+!vectors.pkl
+!images/
+!images/**
+!recommendation_system_final.ipynb
+!requirements.txt
+!.gitignore
