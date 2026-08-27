@@ -75,7 +75,7 @@ with st.sidebar:
 
     skin_type = st.selectbox(
         "Skin Type",
-        ["Dry", "Oily", "Combination", "Sensitive", "All skin types"]
+        ["Dry", "Oily", "Combination", "Sensitive"]
     )
 
     product_type = st.selectbox(
